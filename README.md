@@ -9,3 +9,4 @@ But dont worry it will work on 90% Of Phones...
 Downloads Are On **Release** Page
 
 Please Read req.txt First dude.
+Then Run bapl.bat and relax.
