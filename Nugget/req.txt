@@ -1,0 +1,21 @@
+
+
+
+https://github.com/dhoseini/
+http://spilc.c1.biz/
+
+
+
+
+
+
+Stuuuuuffs You Need:
+
+USB Debugging Mode -- ON
+adb (Make sure its on envoriments variable list)
+Python 3.6 or Later...
+Windows XP And Later...
+
+
+
+
