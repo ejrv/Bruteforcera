@@ -7,3 +7,5 @@ Tested on Huawei Y6 PRO and Sony Xperia TX
 But dont worry it will work on 90% Of Phones...
 
 Downloads Are On **Release** Page
+
+Please Read req.txt First dude.
