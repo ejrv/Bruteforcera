@@ -1,4 +1,6 @@
-# BruteforceAPL
+# Bruteforcera
+formely BruteforceAPL
+
 Bruteforce Android Pattern Lock
 (Works even on your 2010's Phone)
 Tested on Huawei Y6 PRO and Sony Xperia TX
