@@ -10,3 +10,5 @@ Downloads Are On **Release** Page
 
 Please Read req.txt First dude.
 Then Run bapl.bat and relax.
+
+2023 UPDATE: I'll work on this again soon
