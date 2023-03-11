@@ -1,15 +1,17 @@
 
 
 
-https://github.com/dhoseini/
+https://github.com/ejrv/
+https://spilc.ga/
 http://spilc.c1.biz/
+http://cgi.rf.gd/
 
 
 
 
 
 
-Stuuuuuffs You Need:
+Stuffs You Need:
 
 USB Debugging Mode -- ON
 adb (Make sure its on envoriments variable list)
