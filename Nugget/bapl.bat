@@ -1,6 +1,6 @@
 @ECHO OFF
 title BAPL SERVER SpilC.c1.biz
-echo Copyright 2011-2021 dhoseini And SpilC
+echo Copyright 2021-2023 ejrv (mczats)
 echo Take a Coffee. Sit Down and Relax
 adb shell input keyevent 26
 adb shell "input swipe 300 1000 300 300"
