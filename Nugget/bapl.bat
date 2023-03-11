@@ -1,5 +1,5 @@
 @ECHO OFF
-title BAPL SERVER SpilC.c1.biz
+title Bruteforcera By SpilC.ga
 echo Copyright 2021-2023 ejrv (mczats)
 echo Take a Coffee. Sit Down and Relax
 adb shell input keyevent 26
