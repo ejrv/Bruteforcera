@@ -4,6 +4,8 @@
 https://github.com/ejrv/
 https://spilc.ga/
 http://spilc.c1.biz/
+http://inventim.eu5.net/
+http://inventim.c1.biz/
 http://cgi.rf.gd/
 
 
@@ -14,9 +16,9 @@ http://cgi.rf.gd/
 Stuffs You Need:
 
 USB Debugging Mode -- ON
-adb (Make sure its on envoriments variable list)
-Python 3.6 or Later...
-Windows XP And Later...
+ADB (Make sure if it's already on the Envoriment Variable list)
+Python 3.6 and Later...
+Windows Vista And Later... (Works buggy on XP)
 
 
 
